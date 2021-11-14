@@ -1,0 +1,1 @@
+R is a beautiful tool for visualization, these are some of the visualization techniques I can perform in R
